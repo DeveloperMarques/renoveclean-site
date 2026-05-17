@@ -358,8 +358,8 @@ export default function Home() {
               <Image
                 src="/images/sofalimpofooter.jpeg"
                 alt="RENOVE CLEAN"
-                width={80}
-                height={30}
+                width={160}
+                height={120}
                 className="h-10 object-contain mx-auto"
               />
             </div>
