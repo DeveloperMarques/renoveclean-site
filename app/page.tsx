@@ -361,6 +361,7 @@ export default function Home() {
                 width={160}
                 height={120}
                 className="h-10 object-contain mx-auto"
+                style={{ width: 'auto', height: 'auto' }}
               />
             </div>
 
