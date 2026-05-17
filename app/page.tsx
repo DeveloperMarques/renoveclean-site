@@ -356,12 +356,11 @@ export default function Home() {
           >
             <div className="mb-6">
               <Image
-                src="/images/logo.png"
+                src="/images/sofalimpofooter.jpeg"
                 alt="RENOVE CLEAN"
-                width={120}
-                height={48}
+                width={80}
+                height={30}
                 className="h-10 object-contain mx-auto"
-                style={{ width: 'auto', height: 'auto' }}
               />
             </div>
 
@@ -397,7 +396,7 @@ export default function Home() {
           <div className="flex flex-col md:flex-row items-center justify-between gap-4">
             <div className="flex items-center gap-3">
               <Image
-                src="/images/sofalimpofooter.jpeg"
+                src="/images/logo.png"
                 alt="RENOVE CLEAN"
                 width={80}
                 height={32}
