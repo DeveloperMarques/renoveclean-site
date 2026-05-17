@@ -397,7 +397,7 @@ export default function Home() {
           <div className="flex flex-col md:flex-row items-center justify-between gap-4">
             <div className="flex items-center gap-3">
               <Image
-                src="/images/logo.png"
+                src="/images/sofalimpofooter.jpeg"
                 alt="RENOVE CLEAN"
                 width={80}
                 height={32}
