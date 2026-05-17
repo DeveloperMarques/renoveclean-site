@@ -401,7 +401,7 @@ export default function Home() {
                 alt="RENOVE CLEAN"
                 width={80}
                 height={32}
-                className="h-6 object-contain brightness-200"
+                className="h-6 object-contain"
                 style={{ width: 'auto', height: 'auto' }}
               />
             </div>
